@@ -1,0 +1,103 @@
+{
+  "items": [
+    {
+        "id": "b1",
+        "title": "Goodnight Moon",
+        "genre": "kids book",
+        "description": "Goodnight Moon is an American children's book written by Margaret Wise Brown and illustrated by Clement Hurd. It was published on September 3, 1947, and is a highly acclaimed bedtime story. This book is the second in Brown and Hurd's \"classic series\", which also includes The Runaway Bunny and My World.",
+        "year": "1947",
+        "author": "Margaret Wise Brown",
+        "price": "20",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdKBbALUAgHqMnZepX2ra6coOfTu9g-3w_CgPmE58muFoCsYAK"
+    },
+    {
+      "id": "b2",
+      "title": "The Very Hungry Caterpillar",
+      "genre": "kids book",
+      "description": "The Very Hungry Caterpillar is a 1969 children’s picture book designed, illustrated, and written by Eric Carle. The book features a hungry caterpillar that eats a variety of foods before pupating and emerging as a butterfly. It has won many children’s literature awards and major graphic design awards.",
+      "year": "1969",
+      "author": "Eric Carle",
+      "price": "13",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWKI-EPezZq6jdjG9IPQaDfDm6f8vBJCLEPbSyYsjgN8Ig_5iu"
+    }, {
+      "id": "b3",
+      "title": "The Cat in the Hat",
+      "genre": "kids book",
+      "description": "The Cat in the Hat is a 1957 children's book written and illustrated by the American author Theodor Geisel, using the pen name Dr. Seuss. The story centers on a tall anthropomorphic cat who wears a red and white-striped top hat and a red bow tie.",
+      "year": "1957",
+      "author": "Theodor Geisel",
+      "price": "24.5",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNrGIzWlxnhbsA7mpEqTaY3G3xB5AqzhfV4Vn9CuNMnJGJhznV"
+    },
+    {
+      "id": "b4",
+      "title": "Where the Wild Things Are",
+      "genre": "kids book",
+      "description": "Where the Wild Things Are is a 1963 children's picture book written and illustrated by American writer and illustrator Maurice Sendak, originally published in hardcover by Harper & Row.",
+      "year": "1963",
+      "author": "Maurice Sendak",
+      "price": "28",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmpQnO2AxpFXeDZafGtAP8NTj4zvve2h_FrDSAaEWJK5BlPdpm"
+    },
+    {
+      "id": "b5",
+      "title": "Guess How Much I Love You",
+      "genre": "kids book",
+      "description": "Guess How Much I Love You is a British children's book written by Sam McBratney and illustrated by Anita Jeram, published in 1994, in the United Kingdom by Walker Books and in 1995, in the United States by its subsidiary Candlewick Press. The book was a 1996 ALA Notable Children's Book.",
+      "year": "1994",
+      "author": "Sam McBratney",
+      "price": "32.50",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9oFGzJE-3Q_DB3-8AnLzsyhSZOGgFgCClDMiH0UpZB3Tu0Ml7"
+    },
+    {
+      "id": "b6",
+      "title": "Matilda",
+      "genre": "kids book",
+      "description": "Matilda is a children's novel written by British writer Roald Dahl and illustrated by Quentin Blake. It was published in 1988 by Jonathan Cape. The story features Matilda Wormwood, a precocious child with an uncaring mother and father, and her time in school run by the tyrannical headmistress Miss Trunchbull. ",
+      "year": "1988",
+      "author": "Roald Dahl",
+      "price": "42",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4MqxJvifTKlajnsYUqk36zDwFeNxQPq6eF2aOJUx0-odatQnb"
+    },
+    {
+      "id": "b7",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "genre": "kids book",
+      "description": "Harry Potter and the Prisoner of Azkaban is a fantasy novel written by British author J. K. Rowling and is the third in the Harry Potter series. The book follows Harry Potter, a young wizard, in his third year at Hogwarts School of Witchcraft and Wizardry",
+      "year": "1999",
+      "author": "J. K. Rowling",
+      "price": "24",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDQUcqEVnm1TSGF_Mejt9_Tctl8Wh0rUcRRs_Icr2YlUTv6lZB"
+    },
+    {
+      "id": "b8",
+      "title": "Tales of a Fourth Grade Nothing",
+      "genre": "kids book",
+      "description": "Tales of a Fourth Grade Nothing is a children's novel written by American author Judy Blume and published in 1972. It is the first in the Fudge series and was followed by Otherwise Known as Sheila the Great, Superfudge, Fudge-a-Mania, and Double Fudge.",
+      "year": "1972",
+      "author": " Judy Blume",
+      "price": "15",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRB6A9meFF5zFv0dHSC7FUqUHoHeB6oKy_hql5896xJc8v-xpt"
+    },
+    {
+      "id": "b9",
+      "title": "If Animals Kissed Good Night",
+      "genre": "kids book",
+      "description": "With its whimsical art and playful rhymed verse, this bedtime favorite from author Ann Whitford Paul and illustrator David Walker If Animals Kissed Good Night is sure to delight time and again.What if animals did what YOU do?",
+      "year": "2008",
+      "author": "Ann Whitford Paul",
+      "price": "26",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGJ_OPWsiuh8z2qrbMbersxSK07OTw6zcRZL1_viO1q08Tfs2M"
+    },
+    {
+      "id": "b10",
+      "title": "Brown Bear, Brown Bear, What Do You See?",
+      "genre": "kids book",
+      "description": "Brown Bear, Brown Bear, What Do You See? is a children's picture book published in 1967 by Henry Holt and Company, Inc. Written and illustrated by Bill Martin Jr. and Eric Carle, the book is designed to help toddlers associate colors and meanings to objects.",
+      "year": "1967",
+      "author": "Henry Holt",
+      "price": "12.250",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQu3sOjYxRV1sVGOEfBEB1_MXyEbI6NlgLSoYYgeNI7LeKTHNXg"
+    }
+  ]
+}
