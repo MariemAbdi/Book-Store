@@ -51,6 +51,10 @@ class _CartState extends State<Cart> {
     }
   }
 
+  void emptyCart()async{
+  await SQLHelper.deleteCart();
+  }
+
   void itemCount()async{
     //Cart Information
     final cartCount = await SQLHelper.getCount();
@@ -225,15 +229,20 @@ class _CartState extends State<Cart> {
                 children: [
                   FloatingActionButton.extended(
                     heroTag: "heroTag1",
-                    onPressed: () => {
-                    ScaffoldMessenger.of(context)
+                    onPressed: () async{
+                      await SQLHelper.deleteCart();
+                      _refreshCart();
+                      itemCount();
+                      setState(() {});
+
+                      ScaffoldMessenger.of(context)
                         .showSnackBar(const SnackBar(
                     backgroundColor: Colors.green,
                     content: Text("Order Passed Successfully!"),
                     behavior: SnackBarBehavior.floating,))
                         .closed
                         .then((value) => ScaffoldMessenger.of(context)
-                        .clearSnackBars())
+                        .clearSnackBars());
                     },
                     backgroundColor: Colors.orangeAccent,
                     hoverColor:Colors.orange,

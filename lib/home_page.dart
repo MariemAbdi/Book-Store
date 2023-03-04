@@ -20,7 +20,6 @@ class _HomePageState extends State<HomePage> {
   late int _totalItems=0;
 
 
-
   // This Function Is Used To Fetch All The Data From The Database
   void _refreshBooks() async {
     final data = await SQLHelper.getBooks();

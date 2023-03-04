@@ -148,7 +148,7 @@ class SQLHelper {
   }
 
   //Delete All The Books
-  static Future<void> deleteBooks(int id) async {
+  static Future<void> deleteBooks() async {
     final db = await SQLHelper.db();
     try {
       await db.delete("BOOKS");
@@ -158,7 +158,7 @@ class SQLHelper {
   }
 
   //Delete Everything From The Cart
-  static Future<void> deleteCart(int id) async {
+  static Future<void> deleteCart() async {
     final db = await SQLHelper.db();
     try {
       await db.delete("CART");
